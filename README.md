@@ -1,2 +1,2 @@
-nic duležitýho
+nic duležitýho, 
 vubec nic
